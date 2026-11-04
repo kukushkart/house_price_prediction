@@ -1,0 +1,11 @@
+# данные не публикуем: кладите файл локально в data/
+data/*
+!data/.gitkeep
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
